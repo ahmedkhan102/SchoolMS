@@ -15,7 +15,7 @@ SchoolManagementSystem/
 ├── streamlit_login_auth_ui/ # Streamlit-based UI for login and authentication
 ├── tests/                   # Contains test scripts
 ├── src/                     # Core application code
-│   ├── routes/              # API routes for different user roles
+│   ├── routes/              # API routes for different user roles 
 │   ├── ai_module/           # AI features like facial recognition
 │   └── database/            # Database models and utilities
 Setup and Installation
